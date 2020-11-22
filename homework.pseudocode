@@ -1,0 +1,11 @@
+OUTPUT <-- "Enter the weather"
+weather <-- USERINPUT
+
+IF weather = "Raining" THEN
+    OUTPUT "Bring a brolly!"
+ELSE
+    OUTPUT "No raincoat needed!"
+ENDIF
+
+ELSE IF z > MaxValue THEN
+    MaxValue <-- 
